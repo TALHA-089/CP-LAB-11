@@ -1,0 +1,8 @@
+﻿  Problem 3.cpp
+F:\CP LAB 11\CP LAB 11\Problem 3.cpp(54,98): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+F:\CP LAB 11\CP LAB 11\Problem 3.cpp(80,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\CP LAB 11\CP LAB 11\Problem 3.cpp(83,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\CP LAB 11\CP LAB 11\Problem 3.cpp(86,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\CP LAB 11\CP LAB 11\Problem 3.cpp(89,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\CP LAB 11\CP LAB 11\Problem 3.cpp(92,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CP LAB 11.vcxproj -> F:\CP LAB 11\x64\Debug\CP LAB 11.exe
